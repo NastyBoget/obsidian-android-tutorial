@@ -1,0 +1,3 @@
+#!/data/data/com.termux/files/usr/bin/sh
+cd ~/storage/shared/obsidian
+bash /data/data/com.termux/files/usr/bin/git-sync
